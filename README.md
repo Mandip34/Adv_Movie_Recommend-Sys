@@ -1,4 +1,4 @@
-# Advanced_Movie_Recommender
+# Advanced_Movie_Recommendation-System
 
 ### The main aim of this project is to recommend movies but in a more advanced way.
 
