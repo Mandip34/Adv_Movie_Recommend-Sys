@@ -9,7 +9,7 @@
 4) Reverse search of tags
 
 ### This was built in following way:
-1)
+1) Collecting data
 2)
 
 ### Example:
