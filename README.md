@@ -10,6 +10,7 @@
 
 ### This was built in following way:
 1) Collecting data
-2)
+2) Data analysis
+3)
 
 ### Example:
